@@ -71,6 +71,7 @@ div .dropdown-item:nth-child(2n){
               <a class="dropdown-item" href="#"><span class="spanclass"><i class="fa fa-trash" aria-hidden="true"></i></span>Action </a>
               <a class="dropdown-item" href="#"><span class="spanclass"><i class="fa fa-trash" aria-hidden="true"></i></span>Another action</a>
               <a class="dropdown-item" href="#"><span class="spanclass"><i class="fa fa-trash" aria-hidden="true"></i></span>Something else here</a>
+               <a class="dropdown-item" href="#"><span class="spanclass"><i class="fa fa-trash" aria-hidden="true"></i></span>Something else here</a>
               
               
             </div>
